@@ -10,7 +10,7 @@ En carpeta 2 se realizo el trabajo de entrenamiento usando similtud de cosenos. 
 En carpeta 3 se hizo todos los pasos para deployar en render para esto use una estructura adecuada de archivos separacion de carpeta de datos y de la app, agregacion de requirements, optimizacion de codigo para cachear los archivos y mejorar la velocidad de respuesta.
 
 Video de youtube de demostracion de Proyecto: https://youtu.be/DzayDc2FP2s
-Repositorio de desarollo de Proyecto: 
+Repositorio de desarollo de Proyecto: https://github.com/ArtiomDiakov/ProjectMLOps.git
 Repositorio de deployment en Render: https://github.com/ArtiomDiakov/API_RECOMMENDER.git
 
 Nota: No se agregaron archivos JSON por problemas de subida a repositorio por sus tamanos exorbitantes.
